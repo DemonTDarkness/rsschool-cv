@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DemonTDarkness.github.io/rsschool-cv/cv
