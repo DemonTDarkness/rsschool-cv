@@ -1,23 +1,23 @@
-#Leonid Kotov
+# Leonid Kotov
 
-##Contacts
+## Contacts
 
-*Phone number: 89389999999
-*Location: Krasnodar
-*Github: DemonTDarkness
+* Phone number: 89389999999
+* Location: Krasnodar
+* Github: DemonTDarkness
 
-##About me
+## About me
 
 I am 22 years old. I like programming and play game.
 
-##Skills
+## Skills
 
-*HTML
-*CSS
-*Java
-*Git/Github
+* HTML
+* CSS
+* Java
+* Git/Github
 
-##Languages
+## Languages
 
-*Russian
-*English
+* Russian
+* English
